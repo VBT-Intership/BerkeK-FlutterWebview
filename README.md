@@ -1,10 +1,11 @@
 # Flutter Webview Ornek
 Bu depoda Flutter ile webview kullanımına dair kodlar bulunur. Webview üzerinde gösterilecek url veya sabit html içerik uzak bir sunucudan (Node.js ve MongoDb) alınır ve kullanıcıya gösterilir.
 
+
 ## Nasil Calisir ?
-1-) Server üzerinden gosterilmesini istediginiz url'yi database üzerine eklenir.
-2-) Flutter üzerinden servere istek gönderiliri.
-3-) Gelen url veya sabit html içerik kullanıcıya gösterilir
+1-) Server üzerinden gosterilmesini istediginiz url'yi database üzerine eklenir. <br/>
+2-) Flutter üzerinden servere istek gönderilir. <br/>
+3-) Gelen url veya sabit html içerik kullanıcıya gösterilir <br/>
 
 ## Nasil Kurulur
 - 1-) Projeyi kendi makinenize indirin.
